@@ -1,0 +1,49 @@
+h1{
+font-size: 40px;
+font-family: Tahoma,Helvetica;
+text-align: center;
+}
+
+h2{
+font-style: italic;
+font-size: 11px;
+font-family: Tahoma,Helvetica;
+padding-left: 200px;
+padding-bottom: -50px;
+}
+
+body{
+	font-size: 13px;
+	font-family: Tahoma,Helvetica;
+	Color: #272727;
+	width:1080px;
+	line-height: 20px;
+	margin-bottom: 19px;
+	display: block;
+	padding-top: 25px;
+    padding-right: 80px;
+    padding-bottom: 25px;
+    padding-left: 80px;
+	
+}
+.post{
+font-size: 13px;
+	font-family: Tahoma,Helvetica;
+	Color: #272727;
+	width:600px;
+	line-height: 20px;
+	margin-bottom: 19px;
+	display: block;
+	padding-top: 25px;
+    padding-right: 80px;
+    padding-bottom: 25px;
+    padding-left: 200px;
+}
+
+.image{
+  display: block;
+  padding-left:250px;
+  margin-right: 16px;
+  margin-top: 4px;
+  margin-bottom: 12px;
+}
