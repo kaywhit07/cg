@@ -9,7 +9,7 @@ font-style: italic;
 font-size: 11px;
 font-family: Tahoma,Helvetica;
 padding-left: 200px;
-padding-bottom: -50px;
+padding-bottom: 0px;
 }
 
 body{
@@ -23,9 +23,37 @@ body{
 	padding-top: 25px;
     padding-right: 80px;
     padding-bottom: 25px;
-    padding-left: 80px;
+    padding-left: 90px;
 	
 }
+
+table, th, td{
+	border-collapse: collapse;
+}
+
+th, td{
+	padding: 3px;
+	font-size: 12px;
+	border-bottom: 1px solid #dedede;
+	
+}
+
+th {
+	text-align: center;
+}
+
+td{
+	text-align: center;
+}
+
+.table{
+	width: inhert;
+	border-spacing: 2px;
+	border-color: gray;
+	padding-top: 5px;
+	
+}
+
 .post{
 font-size: 13px;
 	font-family: Tahoma,Helvetica;
@@ -34,7 +62,7 @@ font-size: 13px;
 	line-height: 20px;
 	margin-bottom: 19px;
 	display: block;
-	padding-top: 25px;
+	padding-top: 1px;
     padding-right: 80px;
     padding-bottom: 25px;
     padding-left: 200px;
@@ -42,7 +70,7 @@ font-size: 13px;
 
 .image{
   display: block;
-  padding-left:250px;
+  padding-left: 40px;
   margin-right: 16px;
   margin-top: 4px;
   margin-bottom: 12px;
